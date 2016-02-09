@@ -2,7 +2,7 @@
 <COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
   <asset>
     <contributor>
-      <author>Joakim</author>
+      <author>Joakim M. Elden</author>
       <authoring_tool>OpenCOLLADA2016</authoring_tool>
       <comments>
 			ColladaMaya export options: 
