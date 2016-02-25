@@ -15,8 +15,8 @@
 		</comments>
       <source_data>file:///C:/Users/Joakim/Documents/maya/projects/GettingStartedMaya2011LessonData/Bachelor/Reaktor%20prototype/reaktor4.mb</source_data>
     </contributor>
-    <created>2016-02-25T19:02:03</created>
-    <modified>2016-02-25T19:02:03</modified>
+    <created>2016-02-25T19:05:40</created>
+    <modified>2016-02-25T19:05:40</modified>
     <unit name="centimeter" meter="0.01"/>
     <up_axis>Y_UP</up_axis>
   </asset>
@@ -6501,79 +6501,6 @@
         <extra>
           <technique profile="OpenCOLLADAMaya">
             <originalMayaNodeId sid="originalMayaNodeId" type="string">reaktorkjerne</originalMayaNodeId>
-          </technique>
-        </extra>
-      </node>
-      <node id="_pCylinder9" name="pCylinder9" type="NODE">
-        <translate sid="translate">-1.865738 6.840526 0</translate>
-        <scale sid="scale">0.02099501 0.02099501 0.02099501</scale>
-        <extra>
-          <technique profile="OpenCOLLADAMaya">
-            <originalMayaNodeId sid="originalMayaNodeId" type="string">pCylinder9</originalMayaNodeId>
-          </technique>
-        </extra>
-      </node>
-      <node id="_pTorus1" name="pTorus1" type="NODE">
-        <translate sid="translate">-1.657311 6.903901 0</translate>
-        <rotate sid="rotateX">1 0 0 -90</rotate>
-        <scale sid="scale">0.2083148 0.2083148 0.2083148</scale>
-        <extra>
-          <technique profile="OpenCOLLADAMaya">
-            <originalMayaNodeId sid="originalMayaNodeId" type="string">pTorus1</originalMayaNodeId>
-          </technique>
-        </extra>
-      </node>
-      <node id="_pCylinder10" name="pCylinder10" type="NODE">
-        <translate sid="translate">-1.446632 6.870559 0</translate>
-        <rotate sid="rotateY">0 1 0 180</rotate>
-        <scale sid="scale">0.02099501 0.02099501 0.02099501</scale>
-        <extra>
-          <technique profile="OpenCOLLADAMaya">
-            <originalMayaNodeId sid="originalMayaNodeId" type="string">pCylinder10</originalMayaNodeId>
-          </technique>
-        </extra>
-      </node>
-      <node id="_pTorus2" name="pTorus2" type="NODE">
-        <translate sid="translate">0 0 0</translate>
-        <scale sid="scale">1 1 1</scale>
-        <node id="_pTorus2_polySurface1" name="polySurface1" type="NODE">
-          <translate sid="translate">0.001092528 -0.00549343 0</translate>
-          <translate sid="rotatePivot">-1.657311 7.018246 0</translate>
-          <translate sid="rotatePivotInverse">1.657311 -7.018246 0</translate>
-          <translate sid="scalePivot">-1.657311 7.018246 0</translate>
-          <scale sid="scale">1.00607 1.00607 1.00607</scale>
-          <translate sid="scalePivotInverse">1.657311 -7.018246 0</translate>
-          <extra>
-            <technique profile="OpenCOLLADAMaya">
-              <originalMayaNodeId sid="originalMayaNodeId" type="string">polySurface1</originalMayaNodeId>
-            </technique>
-          </extra>
-        </node>
-        <node id="_pTorus2_polySurface2" name="polySurface2" type="NODE">
-          <translate sid="translate">0 0.03353345 0</translate>
-          <translate sid="rotatePivot">-1.865509 5.906072 0</translate>
-          <translate sid="rotatePivotInverse">1.865509 -5.906072 0</translate>
-          <translate sid="scalePivot">-1.865509 5.906072 0</translate>
-          <scale sid="scale">1 1 1</scale>
-          <translate sid="scalePivotInverse">1.865509 -5.906072 0</translate>
-          <extra>
-            <technique profile="OpenCOLLADAMaya">
-              <originalMayaNodeId sid="originalMayaNodeId" type="string">polySurface2</originalMayaNodeId>
-            </technique>
-          </extra>
-        </node>
-        <extra>
-          <technique profile="OpenCOLLADAMaya">
-            <originalMayaNodeId sid="originalMayaNodeId" type="string">pTorus2</originalMayaNodeId>
-          </technique>
-        </extra>
-      </node>
-      <node id="_polySurface1" name="polySurface1" type="NODE">
-        <translate sid="translate">0 0 0</translate>
-        <scale sid="scale">1 1 1</scale>
-        <extra>
-          <technique profile="OpenCOLLADAMaya">
-            <originalMayaNodeId sid="originalMayaNodeId" type="string">polySurface1</originalMayaNodeId>
           </technique>
         </extra>
       </node>
